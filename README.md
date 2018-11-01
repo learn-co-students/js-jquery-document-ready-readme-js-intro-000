@@ -26,7 +26,7 @@ When that's just painting tags with the appropriate styles, the browser simply h
 ```
 Now that our HTML file can find our JavaScript File, let's remove the code between the `script` tags from the bottom of our HTML file and move it to `script.js`.
 
-In this simple example, you should already see `"this is so freaking cool."` appended to `div#text`. But normally, it's not safe to execute JavaScript code until the browser tells us it's ready.
+In this simple example, you should already see `"this is so freaking cool."` appended to `p#text`. But normally, it's not safe to execute JavaScript code until the browser tells us it's ready.
 
 ## Document Ready
 
